@@ -1,0 +1,73 @@
+.third-section {
+    background-color: rgba(229, 229, 229, 1);
+    margin: 0;
+    padding-top: 80px;
+}
+
+
+
+.third-section h1 {
+    position: relative;
+    left: 17%;
+}
+
+.special-prop {
+    display: flex;
+    justify-content: space-between;
+    width: 1116px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.special-prop h1 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+.card {
+    width: 255px;
+    height: 363px;
+    background-color: white;
+}
+
+.card img {
+    margin: 22px 59px 20px 71px;
+}
+
+.text-card {
+    margin: 20px 24px 20px 36px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    }
+
+.price {
+    margin: 20px 82px 20px 93px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.button-buy {
+    width: 130px;
+    height: 35px;
+    margin-top: 20px;
+    margin-bottom: 28px;
+    margin-left: 68px;
+    margin-right: 57px;
+    border-radius: 20px;
+    border-color: rgba(241, 60, 110, 1);
+    background-color: rgba(241, 60, 110, 1);
+}
+
+.button-buy a {
+    color: rgba(229, 229, 229, 1);
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
