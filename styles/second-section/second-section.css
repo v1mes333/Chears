@@ -1,0 +1,52 @@
+.sale {
+    background-image: url(../../images/Rectangle\ 2.png);
+    background-color: palevioletred;
+    background-size: cover;
+    height: 604px;
+    margin-top: 30px;
+}
+
+.text {
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 308px;
+    height: 219px;
+    position: relative;
+    left: 24%;
+    top: 25%;
+}
+
+.text h1 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: rgba(255, 255, 255, 1);
+    width: 308px;
+    height: 44px;
+}
+
+.text p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    height: 35px;
+    width: 308px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.text button {
+    border-radius: 20px;
+    border-color: white;
+    width: 170px;
+    height: 40px;
+    background-color: rgba(241, 60, 110, 1);
+    color: white;
+}
