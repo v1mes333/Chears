@@ -1,0 +1,8 @@
+@import url(./navigation/nav.css);
+@import url(./section/section.css);
+
+* {
+    box-sizing: border-box;
+}
+
+

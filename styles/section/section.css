@@ -1,0 +1,47 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgba(239, 239, 239, 1);
+}
+
+.number {
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-left: 515px;
+}
+
+.button {
+    border-radius: 20px;
+    border-color: rgba(241, 60, 110, 1);
+    background-color: white;
+    color: rgba(0, 0, 0, 1);
+    width: 170px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.catalog {
+    width: 675px;
+    height: 19px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.catalog a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
