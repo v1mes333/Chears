@@ -6,7 +6,7 @@
 
 
 
-.third-section h1 {
+.third-section h2 {
     position: relative;
     left: 17%;
 }
@@ -36,7 +36,7 @@
 }
 
 .text-card {
-    margin: 20px 24px 20px 36px;
+    margin: 0 24px 20px 36px;
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 14px;
@@ -44,7 +44,7 @@
     }
 
 .price {
-    margin: 20px 82px 20px 93px;
+    margin: 0 82px 20px 93px;
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 21px;
@@ -54,7 +54,6 @@
 .button-buy {
     width: 130px;
     height: 35px;
-    margin-top: 20px;
     margin-bottom: 28px;
     margin-left: 68px;
     margin-right: 57px;

@@ -2,6 +2,7 @@
 @import url(./first-section/section.css);
 @import url(./second-section/second-section.css);
 @import url(./third-section/third-section.css);
+@import url(./third-section/forms-email.css);
 
 * {
     box-sizing: border-box;
