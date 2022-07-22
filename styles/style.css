@@ -4,6 +4,7 @@
 @import url(./third-section/third-section.css);
 @import url(./third-section/forms-email.css);
 @import url(./impuls/impuls.css);
+@import url(./footer/footer.css);
 
 * {
     box-sizing: border-box;

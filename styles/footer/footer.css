@@ -1,0 +1,67 @@
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card:not(:last-child) {
+    margin-right: 30px;
+}
+
+.card h1 a{
+    width: 90px;
+}
+
+.card h1 a {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    color: black;
+    border-bottom: 2px;
+    border-color: rgba(239, 239, 239, 1);
+    text-decoration: none;
+}
+
+.card p a {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    color: rgba(130, 130, 130, 1);
+    text-decoration: none;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.end {
+    height: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(239, 239, 239, 1);
+}
+
+.end div:not(:last-child) {
+    margin-left: auto;
+    margin-right: 345;
+    font-family: 'Roboto';
+}
+
+.end div:not(:first-child) {
+    margin-right: auto;
+}
+
+.end div {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(130, 130, 130, 1);
+}

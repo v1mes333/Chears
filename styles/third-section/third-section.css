@@ -29,10 +29,11 @@
     width: 255px;
     height: 363px;
     background-color: white;
+    margin-bottom: 99px;
 }
 
 .card img {
-    margin: 22px 59px 20px 71px;
+    margin: 25px 59px 20px 71px;
 }
 
 .text-card {
@@ -41,20 +42,22 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
+    color: rgba(0, 0, 0, 1);
     }
 
 .price {
-    margin: 0 82px 20px 93px;
+    margin: 0 82px 5px 93px;
     font-family: 'Roboto';
+    font-style: normal;
     font-weight: 500;
     font-size: 21px;
     line-height: 25px;
+    color: rgba(0, 0, 0, 1);
 }
 
 .button-buy {
     width: 130px;
     height: 35px;
-    margin-bottom: 28px;
     margin-left: 68px;
     margin-right: 57px;
     border-radius: 20px;
@@ -70,3 +73,4 @@
     font-size: 14px;
     line-height: 16px;
 }
+
