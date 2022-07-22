@@ -1,0 +1,23 @@
+.wrapper-impuls {
+    display: flex;
+    justify-content: center;
+    margin-top: 99px;
+    margin-bottom: 80px;
+}
+
+.impuls {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1110px;
+    height: 357px;
+    background-color: white
+}
+
+.impuls div {
+    width: 277.5px;
+    border: 2px;
+    border-color: rgba(196, 196, 196, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

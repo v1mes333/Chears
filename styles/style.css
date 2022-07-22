@@ -3,6 +3,7 @@
 @import url(./second-section/second-section.css);
 @import url(./third-section/third-section.css);
 @import url(./third-section/forms-email.css);
+@import url(./impuls/impuls.css);
 
 * {
     box-sizing: border-box;
